@@ -1,11 +1,10 @@
 # 📋 Kawaii Kanban - Organizador de Tarefas Fofo
 
-![Preview do Kawaii Kanban](https://i.imgur.com/xyz1234.png)  
-*(Substitua pelo link real da imagem do seu projeto)*
+![image](https://github.com/user-attachments/assets/341c3618-ef38-4d39-a458-008da4e44926)
+
 
 ## 🔗 **Link para Acessar**
-👉 [Acesse o Kawaii Kanban aqui](https://seulinkdeploy.com)  
-*(Substitua pelo link real do seu projeto em produção)*
+👉 [Acesse o Kawaii Kanban aqui](https://anactechn.github.io/KawaiiKanban/)  
 
 ## 🌟 **Sobre o Projeto**
 O **Kawaii Kanban** é um organizador de tarefas estilo Kanban com um tema adorável e fofo! Perfeito para quem quer gerenciar suas atividades com um toque de diversão e cores vibrantes.
